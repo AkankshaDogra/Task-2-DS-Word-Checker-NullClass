@@ -36,3 +36,4 @@ This Python script provides a simple GUI application for checking the spelling o
    
 
 ## Visuals
+![Beam Search Decoding]()
