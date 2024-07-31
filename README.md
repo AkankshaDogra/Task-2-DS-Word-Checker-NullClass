@@ -36,4 +36,11 @@ This Python script provides a simple GUI application for checking the spelling o
    
 
 ## Visuals
-![Beam Search Decoding]()
+
+Include relevant screenshots here to show the GUI and functionality of the application.
+
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-2-DS-Word-Checker-NullClass/blob/main/Task2-Visuals/ss%204.PNG?raw=true)
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-2-DS-Word-Checker-NullClass/blob/main/Task2-Visuals/ss%202.PNG?raw=true)
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-2-DS-Word-Checker-NullClass/blob/main/Task2-Visuals/ss%203.PNG?raw=true)
+![Beam Search Decoding](https://github.com/AkankshaDogra/Task-2-DS-Word-Checker-NullClass/blob/main/Task2-Visuals/ss%204.PNG?raw=true)
+
