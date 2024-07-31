@@ -18,3 +18,20 @@ This Python script provides a simple GUI application for checking the spelling o
 
    ```bash
    git clone https://github.com/AkankshaDogra/Task-2-DS-Word-Checker-NullClass.git
+
+2. **Navigate to the project directory:**
+   
+   ```bash
+   cd Task-2-DS-Word-Checker-NullClass
+   
+3. **Install the required dependencies:**
+
+   ```bash
+   pip install pyenchant
+
+4. **Run the application:**
+
+   ```bash
+   
+
+## Visuals
