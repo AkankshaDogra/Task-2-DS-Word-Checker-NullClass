@@ -32,6 +32,7 @@ This Python script provides a simple GUI application for checking the spelling o
 4. **Run the application:**
 
    ```bash
+   task2_Word-checker.py
    
 
 ## Visuals
