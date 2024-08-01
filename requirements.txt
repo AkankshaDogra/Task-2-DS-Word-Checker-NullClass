@@ -1,2 +1,2 @@
-speechrecognition==3.8.1
-googletrans==4.0.0-rc1
+tkinter==8.6
+pyenchant==3.2.2
